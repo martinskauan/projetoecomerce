@@ -27,11 +27,11 @@ public class SwaggerConfig {
 							.url("https://despertar.org.br/"))
 					.contact(new Contact()
 							.name("Kauan Martins")
-							.url("https://github.com/loirena")
-							.email("dlm.lorena@gmail.com")))
+							.url("https://github.com/martinskauan/projetoecomerce")
+							.email("kauanmartins@gmail.com")))
 					.externalDocs(new ExternalDocumentation()
 							.description("Github")
-							.url("https://github.com/loirena/blog-pessoal"));
+							.url("https://github.com/martinskauan/projetoecomerce"));
 	}
 	
 	
